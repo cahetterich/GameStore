@@ -41,7 +41,3 @@ Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com
 
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/69d36a07-3b64-4fe8-a031-24169cff80d6)
 
-<h3>Projeto completo</h3>
-
-![image](https://github.com/user-attachments/files/15993415/screencapture-127-0-0-1-5500-index-html-2024-06-26-19_38_11.pdf)
-
