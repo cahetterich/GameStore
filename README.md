@@ -16,6 +16,7 @@ Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com
 * Bootstrap 5
 * JavaScript  
 * Slick CSS
+* JQuery
 * API Geolocalização Google
 
 <h2> Projeto desenvolvido: </h2>
@@ -42,4 +43,6 @@ Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com
 
 <h3>Projeto completo</h3>
 
-![screencapture-127-0-0-1-5500-index-html-2024-06-26-19_16_26](https://github.com/cahetterich/GameStore/assets/148469247/a5d64eb7-8b44-45c3-84d7-86309e3d7c21)
+[screencapture-127-0-0-1-5500-index-html-2024-06-26-19_38_11.pdf](https://github.com/user-attachments/files/15993019/screencapture-127-0-0-1-5500-index-html-2024-06-26-19_38_11.pdf)
+
+
