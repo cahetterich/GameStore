@@ -1,0 +1,42 @@
+
+/* botão inicio - Criar Conta */
+.btn-color {      
+  font-family: var(--font-Goldman);  
+  border-radius: 15px;    
+  background: rgb(20, 68, 128, 0.70);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.288);
+  backdrop-filter: blur(8.6px);
+  -webkit-backdrop-filter: blur(8.6px);
+}
+
+.btn-color:hover {     
+    border-radius: 15px;   
+    background-color: rgb(43, 222, 253, 0.70);    
+    box-shadow: 0 2px 5px rgb(255, 255, 255);
+    backdrop-filter: blur(8.6px);
+    -webkit-backdrop-filter: blur(8.6px);    
+    text-shadow: #bbbbbb 0px 0px 10px, #9e9e9e 0px 0px 10px, 2px 2px 2px rgba(190, 190, 190, 0.288);
+}
+
+/* botão search - Buscar Jogos*/
+
+.btn-infos {  
+  border: none;   
+  color: var(--colors-white);
+  font-family: var(--font-Goldman);  
+  border-radius: 15px;    
+  background: rgb(103, 32, 136);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.288);
+  backdrop-filter: blur(8.6px);
+  -webkit-backdrop-filter: blur(8.6px);
+}
+
+.btn-infos:hover {     
+    color: var(--colors-white);
+    border-radius: 15px;   
+    background-color: var(--colors-dark);   
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.288);
+    backdrop-filter: blur(8.6px);
+    -webkit-backdrop-filter: blur(8.6px);    
+    text-shadow: #bbbbbb 0px 0px 10px, #9e9e9e 0px 0px 10px, 2px 2px 2px rgba(190, 190, 190, 0.288);
+}

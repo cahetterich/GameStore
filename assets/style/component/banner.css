@@ -1,0 +1,16 @@
+.banners {
+    width: 100%;
+    height: 50vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  .banners-titulo {
+    --bs-bg-opacity: .2;
+  }
+  
+  .banner-1 {
+    background-image: url("../../img//city-moon-ocean-digital-art-2k-wallpapercopy.jpg");
+  }

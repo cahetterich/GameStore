@@ -1,0 +1,51 @@
+
+ /* detalhes section - FACILIDADES */
+.color-theme {
+  color: var(--colors-blue);
+}
+
+.bg-input {
+  background-color: var(--colors-white);
+ 
+}
+
+
+/* theme DARK */
+
+input[type=checkbox] {
+    border: 1px solid #ffffff60;
+    background-color: rgba(255, 255, 255, 0.192);
+    box-shadow: none;
+    }
+
+[data-bs-theme="dark"] {       
+    color: var(--colors-white);
+    
+    background-color: rgb(20,68,128);
+    background: linear-gradient(74deg, rgba(20,68,128,1) 1%, rgba(4,24,50,1) 24%, rgba(4,24,50,1) 80%, rgba(37,18,81,1) 99%);
+    
+    .nav-link, .card-body, .offcanvas, .accordion, .btn {
+      --bs-nav-link-color: var(--colors-white);
+      --bs-card-color: var(--colors-white);
+      --bs-offcanvas-color: var(--colors-white);
+      --bs-accordion-color: var(--colors-white);
+      --bs-body-color: var(--colors-white);      
+    } 
+
+    /* detalhes section - FACILIDADES */
+    .color-theme {
+      color: var(--colors-white);
+    }
+  
+    .content {
+      background: rgba(0, 0, 0, 0.5);
+    }
+
+    .item:hover .content {     
+      background: rgba(0, 0, 0, 0.8); /* Torna o fundo mais opaco ao passar o mouse */
+  }
+
+    .bg-input {
+      background-color: var(--colors-darkBlue);
+    }
+  }

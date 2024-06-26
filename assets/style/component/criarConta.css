@@ -1,0 +1,12 @@
+@import url(./style.css);
+
+.btn-facebook {
+    background-color: #3b5998;
+    border: #3b5998;
+    color: var(--colors-white);
+}
+
+.btn-facebook:hover, click {
+    background-color: #1c3a7a;
+    border: #1c3a7a;
+}

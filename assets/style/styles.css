@@ -1,0 +1,18 @@
+
+@import url(./abstract/roots.css);
+@import url(./abstract/variaveis.css);
+
+@import url(./component/headerNavbar.css);
+@import url(./component/botao.css);
+@import url(./component/darkMode.css);
+@import url(./component/cardsLista.css);
+@import url(./component/carouselJogos.css);
+@import url(./component/banner.css);
+@import url(./component/criarConta.css);
+
+
+
+
+
+
+

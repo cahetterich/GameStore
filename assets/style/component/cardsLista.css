@@ -1,0 +1,12 @@
+.descricao-card {
+    display: none;
+}
+
+/* md */
+@media(min-width: 768px) {  	
+
+    .descricao-card {
+        display: contents;              
+    }
+
+}

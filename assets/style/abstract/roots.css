@@ -1,0 +1,19 @@
+
+:root {
+    /* cores */
+    --colors-white: #F0F0EF;    
+    --colors-dark: #000000;     
+    --colors-darkBlue: rgb(4, 24, 50);     
+    --colors-blue: rgb(20, 68, 128);     
+    --colors-acqua: rgb(43, 222, 253);     
+    --colors-darkPurple: rgb(37, 18, 81);     
+    --colors-purple: rgb(103, 32, 136);   
+    --colors-green: rgb(46, 136, 32);   
+    --colors-red: rgb(165, 3, 17);   
+    /* gradiente */
+    --gradiente-ligth: background: rgb(20,68,128);
+    background: linear-gradient(74deg, rgba(20,68,128,1) 1%, rgba(240,240,239,1) 24%, rgba(240,240,239,1) 80%, rgba(37,18,81,1) 99%);
+    /* fontes */
+    --font-Goldman: "Goldman", sans-serif;      /* <weight>: Use a value from 400 ou 700 */
+    --font-OpenSans: "Open Sans", sans-serif;     /* <weight>: Use a value from 300 to 80 */
+}
