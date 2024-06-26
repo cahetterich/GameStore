@@ -20,6 +20,10 @@ Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com
 
 <h2> Projeto desenvolvido: </h2>
 
+<h3>API de Geolocalização funcional no projeto </h3>
+
+![image](https://github.com/cahetterich/GameStore/assets/148469247/57b62b0f-927d-4091-9080-181d61dfa36d)
+
 <h3>Telas com 350px </h3>
 
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/8f095012-46ee-4a99-9434-19e64e513db3)
@@ -36,3 +40,6 @@ Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com
 
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/69d36a07-3b64-4fe8-a031-24169cff80d6)
 
+<h3>Projeto completo</h3>
+
+![screencapture-127-0-0-1-5500-index-html-2024-06-26-19_16_26](https://github.com/cahetterich/GameStore/assets/148469247/a5d64eb7-8b44-45c3-84d7-86309e3d7c21)
