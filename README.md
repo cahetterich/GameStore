@@ -6,7 +6,7 @@ Essa é uma releitura do projeto anterior, trazendo mais funções e um design m
 
 Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com JavaScript para incluir a opção de alterar entre o tema Dark (padrão) e o Light, podendo auxiliar pessoas com baixa visão. 
 
-*Optamos pela utilização da API de Geolocalização do Google, para que fique disponível a localização do escritório da empresa em nosso site. E com isso facilitar reuniões com novos desenvolvedores de jogos brasileiros e nossos investidores. 
+* Optamos pela utilização da API de Geolocalização do Google, para que fique disponível a localização do escritório da empresa em nosso site. E com isso facilitar reuniões com novos desenvolvedores de jogos brasileiros e nossos investidores. 
 
 ## Ferramentas utilizadas:
 
