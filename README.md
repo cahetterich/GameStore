@@ -6,7 +6,7 @@ Essa é uma releitura do projeto anterior, trazendo mais funções e um design m
 
 Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com JavaScript para incluir a opção de alterar entre o tema Dark (padrão) e o Light, podendo auxiliar pessoas com baixa visão. 
 
-Optamos pela utilização da API de Geolocalização do Google, para que fique disponível a localização do escritório da empresa em nosso site. E com isso facilitar reuniões com novos desenvolvedores de jogos brasileiros e nossos investidores. 
+*Optamos pela utilização da API de Geolocalização do Google, para que fique disponível a localização do escritório da empresa em nosso site. E com isso facilitar reuniões com novos desenvolvedores de jogos brasileiros e nossos investidores. 
 
 ## Ferramentas utilizadas:
 
@@ -28,7 +28,11 @@ Optamos pela utilização da API de Geolocalização do Google, para que fique d
 
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/508c1e08-0cb7-4583-bc27-a47a3b933e5b)
 
-<h3>Telas com 1400px </h3>
+<h3>Telas com 1400px - Tema Dark</h3>
 
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/b497ba9a-ea72-405a-aff4-ba41a9dc865f)
+
+<h3>Telas com 1400px - Tema Light</h3>
+
+![image](https://github.com/cahetterich/GameStore/assets/148469247/69d36a07-3b64-4fe8-a031-24169cff80d6)
 
