@@ -43,6 +43,5 @@ Para dar mais movimento e contraste em nosso projeto, utilizamos o Bootstrap com
 
 <h3>Projeto completo</h3>
 
-[screencapture-127-0-0-1-5500-index-html-2024-06-26-19_38_11.pdf](https://github.com/user-attachments/files/15993019/screencapture-127-0-0-1-5500-index-html-2024-06-26-19_38_11.pdf)
-
+![image](https://github.com/user-attachments/files/15993415/screencapture-127-0-0-1-5500-index-html-2024-06-26-19_38_11.pdf)
 
