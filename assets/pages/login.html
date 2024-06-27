@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>Entre na sua conta!</title>
      <!-- Google Fonts -->
      <link rel="preconnect" href="https://fonts.googleapis.com">
      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,11 +18,11 @@
 
 <body data-bs-theme="dark"> 
 
-    <header >
+    <header class="pt-5 px-5" >
         <nav class="navbar navbar-expand-lg fixed-top font-navbar bg-glass">
             <div class="container px-4">
-                <a class="navbar-brand " href="#">
-                    <img src="/assets/img/logo01.png" alt="Logo" width="50" height="45" class="rounded-circle" >
+                <a aria-label="Página da Iara Games" class="navbar-brand " href="#">
+                    <img src="/assets/img/logo01.png" alt="Logo da Iara Games" width="50" height="45" class="rounded-circle" >
                   </a>
                 <a class="navbar-brand logo-text" id="#inicio" href="/index.html"><span class="brand-iara">IARA</span> <span class="brand-games">GAMES</span></a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
@@ -59,82 +59,62 @@
               </div>
             </div>
           </nav>
-    </header>   
-
-    <section class="pt-5 px-5">
-    </section>
-
-     <!-- Section Login -->
-     <section class="container p-5 mb-5">             
-        
-            <div class="row  justify-content-center align-items-center">
-
-                <div class="col-md-6 text-center">
+    </header>  
+     
+     <section class="container p-5 mb-5">       
+        <div class="row  justify-content-center align-items-center">
+             <div class="col-md-6 text-center">
                     <img src="/assets/img/img04.png" alt="descrição da imagem" class="img-fluid">
-                </div>
-                
+                </div>                
                 <div class="col-md-6 pb-4 border rounded rounded-3 pb-4 bg-glass">
-                    <h2 class="my-4 fw-medium font-h2 text-start">Faça seu Login</h2>    
+                    <h2 class="my-4 fw-medium font-h2 text-start">Faça seu Login</h2> 
+                        <div class="d-flex justify-content-end gap-2">
+                           <a href="#" class="d-flex align-items-center justify-content-center color-theme"><i class="bi bi-facebook"></i></a>
+                            <a href="#" class="d-flex align-items-center justify-content-center color-theme"><i class="bi bi-google"></i></a>
+                        </div>
 
-                                  <div class="d-flex justify-content-end gap-2">
-                                  <a href="#" class="d-flex align-items-center justify-content-center color-theme"><i class="bi bi-facebook"></i></a>
-                                  <a href="#" class="d-flex align-items-center justify-content-center color-theme"><i class="bi bi-google"></i></a>
-                                  </div>
-                                         
-                      <form action="#" class="signin-form">
-
+                  <form action="#" class="signin-form">
                     <div class="exampleForm mb-3">
                         <label class="form-label" for="exampleInputEmail">E-mail</label>
                         <input type="email" class="form-control bg-input" id="exampleInputEmail" placeholder="Digite seu e-mail" required>
                     </div>
-
                     <div class="exampleInputForm mb-3">
                         <label class="form-label" for="exampleInputPassword">Senha</label>
                         <input type="password" class="form-control bg-input" id="exampleInputPassword" placeholder="Digite sua senha" required>
                     </div>
-
                     <div class="exampleForm">
                         <button type="submit" class="form-control btn btn-primary rounded submit px-3">Entrar</button>
                     </div>
+                    <div class="exampleForm d-lg-flex mt-3 ">
+                        <div class="form-check color-theme ">
+                           <input class="form-check-input border" type="checkbox" value="" name="remember_me" id="remember_me">
+                           <label class="form-check-label text-secondary" for="remember_me">
+                            Lembrar minha senha
+                           </label>
+                        </div>
+                        <div class="text-md-right ms-auto">
+                            <a href="#" class="color-theme ">Esqueci minha senha</a>
+                        </div>                  
+                    </div>
+                </form>
 
-              <div class="exampleForm d-lg-flex mt-3 ">
-                  <div class="form-check color-theme ">
-                    <input class="form-check-input border" type="checkbox" value="" name="remember_me" id="remember_me">
-                    <label class="form-check-label text-secondary" for="remember_me">
-                      Lembrar minha senha
-                    </label>
-                  </div>
-
-                  <div class="text-md-right ms-auto">
-                       <a href="#" class="color-theme ">Esqueci minha senha</a>
-                 </div>
-
-              </div>
-
-            </form>
-            <p class="text-center mt-4">Não tem conta? <a data-toggle="tab" class="color-theme" href="./criarConta.html">Cadastre-se!</a></p>
-            <p class="text-center">ou</p>
-            <button type="submit" class="form-control btn btn-facebook rounded submit px-3">Entrar com Facebook <i class="bi bi-facebook"></i></button>           
-            <button type="submit" class="form-control btn btn-danger rounded submit px-3 mt-3">Entrar com Gmail <i class=" bi bi-google"></i></button>
-                </div>
-            </div>                   
-              
+                <p class="text-center mt-4">Não tem conta? <a data-toggle="tab" class="color-theme" href="./criarConta.html">Cadastre-se!</a></p>
+                <p class="text-center">ou</p>
+                <button type="submit" class="form-control btn btn-facebook rounded submit px-3">Entrar com Facebook <i class="bi bi-facebook"></i></button>           
+                <button type="submit" class="form-control btn btn-danger rounded submit px-3 mt-3">Entrar com Gmail <i class=" bi bi-google"></i></button>
+          </div>
+      </div>               
     </section>
 
-
-       <!-- FOOTER  --> 
     <footer class="footer text-center bg-glass">
         <div class="container py-5">
-            <div class="row">
-                <!-- Redes Sociais -->
+            <div class="row">                
                 <div class="col-lg-6 col-md-6 mb-4 mb-md-0">
                     <h5 class="">Redes Sociais</h5>
                     <a href="#" class="btn "><i class="bi bi-whatsapp"></i></a>
                     <a href="#" class="btn "><i class="bi bi-instagram"></i></a>
                     <a href="#" class="btn "><i class="bi bi-twitter"></i></a>
-                </div>
-                              
-                <!-- Informações de Contato -->
+                </div>                
                 <div class="col-lg-6 col-md-6 mb-1 mb-md-0">
                     <h5 class="">Contato</h5>
                     <ul class="list-unstyled mb-0">
@@ -155,18 +135,13 @@
             2024 <i class="bi bi-c-circle"></i> Projeto desenvolvido no curso de graduação da FIAP.
         </div>
     </footer>
-
-
      
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Slick JS -->
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>     
-
-
-    <script src="/assets/js/script.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>     <script src="/assets/js/script.js"></script>
 </body>
 
 </html>
