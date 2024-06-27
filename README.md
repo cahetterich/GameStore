@@ -39,22 +39,19 @@ Com isso podemos visualizar um mapa interativo mostrando a localização especí
 
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/ccf2e6dc-0e6b-4285-8015-879948edf351)
 
-
-![image](https://github.com/cahetterich/GameStore/assets/148469247/57b62b0f-927d-4091-9080-181d61dfa36d)
-
 <h3>Telas com 350px </h3>
 
-![image](https://github.com/cahetterich/GameStore/assets/148469247/8f095012-46ee-4a99-9434-19e64e513db3)
+![image](https://github.com/cahetterich/GameStore/assets/148469247/845dbb3c-6e46-4807-b8e7-554a1244b32a)
 
 <h3>Telas com 768px </h3>
 
-![image](https://github.com/cahetterich/GameStore/assets/148469247/508c1e08-0cb7-4583-bc27-a47a3b933e5b)
+![image](https://github.com/cahetterich/GameStore/assets/148469247/ba21adeb-f47e-436c-9d8b-ede4e5ac6ed4)
 
 <h3>Telas com 1400px - Tema Dark</h3>
 
-![image](https://github.com/cahetterich/GameStore/assets/148469247/b497ba9a-ea72-405a-aff4-ba41a9dc865f)
+![image](https://github.com/cahetterich/GameStore/assets/148469247/510c10eb-2528-4c8d-988b-ef51090699a2)
 
 <h3>Telas com 1400px - Tema Light</h3>
 
-![image](https://github.com/cahetterich/GameStore/assets/148469247/69d36a07-3b64-4fe8-a031-24169cff80d6)
+![image](https://github.com/cahetterich/GameStore/assets/148469247/0545bde2-8d0c-4962-b24c-c5442e2fd2f8)
 
