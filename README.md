@@ -37,6 +37,9 @@ Com isso podemos visualizar um mapa interativo mostrando a localização especí
 
 <h3>API de Geolocalização funcional no projeto </h3>
 
+![image](https://github.com/cahetterich/GameStore/assets/148469247/ccf2e6dc-0e6b-4285-8015-879948edf351)
+
+
 ![image](https://github.com/cahetterich/GameStore/assets/148469247/57b62b0f-927d-4091-9080-181d61dfa36d)
 
 <h3>Telas com 350px </h3>
