@@ -1,0 +1,237 @@
+{
+    "games": [
+
+      {
+        "title": "Eternal Odyssey",
+        "image": "...",
+        "description": "Eternal Odyssey é um RPG épico onde você embarca em uma jornada mágica para salvar o reino de Eldoria. Enfrente inimigos poderosos, descubra tesouros antigos e construa alianças com heróis lendários.",
+        "brief_description": "Um RPG épico com uma jornada mágica para salvar o reino de Eldoria.",
+        "genre": "RPG",
+        "release_year": 2023,
+        "studio": "DreamForge Studios",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "E10+"
+      },
+      {
+        "title": "Galactic Conquest",
+        "image": "...",
+        "description": "Galactic Conquest é um jogo de estratégia em tempo real onde você lidera uma frota espacial para conquistar a galáxia. Construa bases, gerencie recursos e enfrente inimigos em batalhas épicas no espaço.",
+        "brief_description": "Jogo de estratégia em tempo real para conquistar a galáxia.",
+        "genre": "Estratégia",
+        "release_year": 2022,
+        "studio": "Stellar Games",
+        "platforms": ["PC", "Mac"],
+        "rating": "T"
+      },
+      {
+        "title": "Mystic Adventure",
+        "image": "...",
+        "description": "Mystic Adventure é um jogo de ação e aventura onde você explora um mundo encantado cheio de mistérios e perigos. Solucione enigmas, derrote criaturas mágicas e descubra os segredos antigos escondidos nas profundezas da floresta.",
+        "brief_description": "Jogo de ação e aventura em um mundo encantado cheio de mistérios.",
+        "genre": "Ação e Aventura",
+        "release_year": 2021,
+        "studio": "Enchanted Games",
+        "platforms": ["PC", "Switch"],
+        "rating": "E"
+      },
+      {
+        "title": "Cyber Battle Arena",
+        "image": "...",
+        "description": "Cyber Battle Arena é um jogo de combate multiplayer ambientado em um futuro distópico. Personalize seu lutador, escolha suas armas e habilidades, e enfrente outros jogadores em arenas digitais.",
+        "brief_description": "Jogo de combate multiplayer ambientado em um futuro distópico.",
+        "genre": "Combate",
+        "release_year": 2024,
+        "studio": "NeoWave Interactive",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "M"
+      },
+      {
+        "title": "Fantasy Farming",
+        "image": "...",
+        "description": "Fantasy Farming é um simulador de fazenda com um toque mágico. Plante colheitas encantadas, cuide de criaturas míticas e transforme sua pequena propriedade em uma fazenda próspera.",
+        "brief_description": "Simulador de fazenda com um toque mágico e criaturas míticas.",
+        "genre": "Simulação",
+        "release_year": 2020,
+        "studio": "GreenField Games",
+        "platforms": ["PC", "Switch"],
+        "rating": "E"
+      },
+      {
+        "title": "Zombie Survival Quest",
+        "image": "...",
+        "description": "Zombie Survival Quest é um jogo de sobrevivência onde você deve construir abrigos, coletar recursos e defender-se de hordas de zumbis em um mundo pós-apocalíptico.",
+        "brief_description": "Jogo de sobrevivência em um mundo pós-apocalíptico com hordas de zumbis.",
+        "genre": "Sobrevivência",
+        "release_year": 2023,
+        "studio": "DeadLand Studios",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "M"
+      },
+      {
+        "title": "Skyward Journey",
+        "image": "...",
+        "description": "Skyward Journey é um jogo de exploração aérea onde você pilota uma aeronave através de paisagens deslumbrantes e descobre ilhas flutuantes cheias de segredos e desafios.",
+        "brief_description": "Jogo de exploração aérea com ilhas flutuantes e paisagens deslumbrantes.",
+        "genre": "Exploração",
+        "release_year": 2021,
+        "studio": "AeroQuest",
+        "platforms": ["PC", "PS4", "Switch"],
+        "rating": "E"
+      },
+      {
+        "title": "Mystery Mansion",
+        "image": "...",
+        "description": "Mystery Mansion é um jogo de quebra-cabeça onde você deve resolver enigmas complexos para desvendar os segredos de uma mansão assombrada. Cada sala oferece novos desafios e surpresas.",
+        "brief_description": "Jogo de quebra-cabeça em uma mansão assombrada cheia de segredos.",
+        "genre": "Quebra-cabeça",
+        "release_year": 2022,
+        "studio": "PuzzleMasters",
+        "platforms": ["PC", "Mobile"],
+        "rating": "E10+"
+      },
+      {
+        "title": "Heroic Legends",
+        "image": "...",
+        "description": "Heroic Legends é um MMORPG onde você cria seu próprio herói e embarca em missões épicas em um mundo de fantasia. Junte-se a outros jogadores, forme guildas e derrote inimigos poderosos.",
+        "brief_description": "MMORPG onde você cria seu herói e embarca em missões épicas.",
+        "genre": "MMORPG",
+        "release_year": 2020,
+        "studio": "EpicQuest Entertainment",
+        "platforms": ["PC"],
+        "rating": "T"
+      },
+      {
+        "title": "Stealth Operative",
+        "image": "...",
+        "description": "Stealth Operative é um jogo de ação furtiva onde você assume o papel de um agente secreto em missões perigosas ao redor do mundo. Utilize gadgets avançados e técnicas de infiltração para completar seus objetivos.",
+        "brief_description": "Jogo de ação furtiva onde você é um agente secreto em missões perigosas.",
+        "genre": "Ação furtiva",
+        "release_year": 2021,
+        "studio": "Silent Shadows",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "M"
+      },
+      {
+        "title": "Alien Invasion Defense",
+        "image": "...",
+        "description": "Alien Invasion Defense é um jogo de defesa de torre onde você deve proteger a Terra de uma invasão alienígena. Construa e melhore suas defesas, e lute contra ondas de inimigos extraterrestres.",
+        "brief_description": "Jogo de defesa de torre para proteger a Terra de uma invasão alienígena.",
+        "genre": "Defesa de Torre",
+        "release_year": 2023,
+        "studio": "Defense Grid Studios",
+        "platforms": ["PC", "Mobile"],
+        "rating": "E10+"
+      },
+      {
+        "title": "Virtual Chef",
+        "image": "...",
+        "description": "Virtual Chef é um simulador de cozinha onde você pode criar pratos deliciosos e gerenciar seu próprio restaurante. Experimente receitas de todo o mundo e torne-se um chef de renome.",
+        "brief_description": "Simulador de cozinha onde você cria pratos deliciosos e gerencia um restaurante.",
+        "genre": "Simulação",
+        "release_year": 2022,
+        "studio": "Cuisine Creations",
+        "platforms": ["PC", "Switch", "Mobile"],
+        "rating": "E"
+      },
+      {
+        "title": "Dragon's Quest",
+        "image": "...",
+        "description": "Dragon's Quest é um jogo de aventura onde você controla um cavaleiro em uma missão para resgatar a princesa capturada por um dragão. Explore masmorras perigosas, resolva quebra-cabeças e lute contra criaturas míticas.",
+        "brief_description": "Jogo de aventura onde um cavaleiro resgata a princesa capturada por um dragão.",
+        "genre": "Aventura",
+        "release_year": 2021,
+        "studio": "Legendary Studios",
+        "platforms": ["PC", "PS4", "Xbox One"],
+        "rating": "E10+"
+      },
+      {
+        "title": "Racing Rivals",
+        "image": "...",
+        "description": "Racing Rivals é um jogo de corrida onde você compete contra pilotos de todo o mundo em pistas emocionantes. Personalize seu carro, melhore seu desempenho e prove que você é o melhor corredor.",
+        "brief_description": "Jogo de corrida onde você compete contra pilotos em pistas emocionantes.",
+        "genre": "Corrida",
+        "release_year": 2023,
+        "studio": "Speedster Games",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "E10+"
+    },
+
+    {
+        "title": "The Law of Return",
+        "image": "...",
+        "description": "The Law of Return é um thriller investigativo onde você assume o papel de um detetive determinado a desvendar uma série de crimes misteriosos. Ao investigar, você descobre uma antiga profecia que prevê o retorno de um mal ancestral. Resolva enigmas complexos, reúna pistas e descubra a verdade antes que seja tarde demais.",
+        "brief_description": "Thriller investigativo onde um detetive desvenda crimes ligados a uma antiga profecia.",
+        "genre": "Investigação/Thriller",
+        "release_year": 2024,
+        "studio": "Mystery Studios",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "T",
+        "key_features": [
+          "História envolvente com reviravoltas intrigantes",
+          "Enigmas desafiadores e quebra-cabeças",
+          "Ambientes detalhados e atmosféricos",
+          "Interações profundas com personagens únicos",
+          "Múltiplos finais baseados em suas decisões"
+        ]
+      },
+      
+      {
+        "title": "Time to Harvest",
+        "image": "...",
+        "description": "Time to Harvest é um jogo de simulação e estratégia onde você administra uma fazenda comunitária. Sua missão é plantar, cultivar e colher diferentes tipos de culturas, não apenas para seu próprio sustento, mas também para ajudar sua comunidade a prosperar. As escolhas que você faz impactam diretamente o bem-estar dos habitantes e o desenvolvimento da vila.",
+        "brief_description": "Simulação de fazenda comunitária onde suas ações ajudam a comunidade a prosperar.",
+        "genre": "Simulação/Estratégia",
+        "release_year": 2024,
+        "studio": "Community Games",
+        "platforms": ["PC", "Switch", "Mobile"],
+        "rating": "E",
+        "key_features": [
+          "Gestão de fazenda com enfoque comunitário",
+          "Variedade de culturas para plantar e colher",
+          "Eventos sazonais e desafios climáticos",
+          "Interações com moradores e desenvolvimento de relações",
+          "Impacto das suas decisões no crescimento da vila"
+        ]
+      },
+
+      {
+        "title": "Love and Light",
+        "image": "...",
+        "description": "Love and Light é um jogo de aventura e romance onde você embarca em uma jornada para espalhar amor e luz em um mundo sombrio. Jogue como uma heroína ou herói que usa poderes mágicos para curar corações partidos e trazer esperança aos habitantes. Explore diversas regiões, resolva quebra-cabeças emocionantes e construa relações significativas ao longo do caminho.",
+        "brief_description": "Aventura romântica onde você espalha amor e luz em um mundo sombrio.",
+        "genre": "Aventura/Romance",
+        "release_year": 2024,
+        "studio": "Heartfelt Games",
+        "platforms": ["PC", "PS5", "Switch"],
+        "rating": "E10+",
+        "key_features": [
+          "História envolvente com temas de amor e esperança",
+          "Poderes mágicos para curar e trazer luz",
+          "Quebra-cabeças desafiadores e emocionantes",
+          "Interações profundas com personagens variados",
+          "Diversas regiões para explorar e restaurar"
+        ]
+      },
+      
+      {
+        "title": "The Guardians",
+        "image": "...",
+        "description": "The Guardians é um jogo de ação e aventura onde você assume o papel de um guardião encarregado de proteger uma ordem secreta de guardiões antigos. Em um mundo onde forças das trevas ameaçam a existência, você deve recrutar e treinar novos guardiões, defender os santuários sagrados e combater inimigos poderosos. Cada decisão sua pode afetar o destino da ordem e do mundo.",
+        "brief_description": "Ação e aventura onde você protege uma ordem secreta de guardiões antigos.",
+        "genre": "Ação/Aventura",
+        "release_year": 2024,
+        "studio": "Guardian Studios",
+        "platforms": ["PC", "PS5", "Xbox Series X"],
+        "rating": "T",
+        "key_features": [
+          "Narrativa envolvente com escolhas impactantes",
+          "Recrutamento e treinamento de novos guardiões",
+          "Combate estratégico contra forças das trevas",
+          "Exploração de santuários sagrados e ruínas antigas",
+          "Desenvolvimento de habilidades e poderes únicos"
+        ]
+      }
+
+    ]
+ }
+  
