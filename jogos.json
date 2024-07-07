@@ -178,8 +178,8 @@
       {
         "title": "Time to Harvest",
         "image": "...",
-        "description": "Time to Harvest é um jogo de simulação e estratégia onde você administra uma fazenda comunitária. Sua missão é plantar, cultivar e colher diferentes tipos de culturas, não apenas para seu próprio sustento, mas também para ajudar sua comunidade a prosperar. As escolhas que você faz impactam diretamente o bem-estar dos habitantes e o desenvolvimento da vila.",
-        "brief_description": "Simulação de fazenda comunitária onde suas ações ajudam a comunidade a prosperar.",
+        "description": "Time to Harvest é um jogo de simulação e estratégia onde você administra uma fazenda comunitária. Sua missão é plantar, cultivar e colher, não apenas para seu próprio sustento, mas também para ajudar sua comunidade a prosperar e praticar o bem na comunidade. As escolhas que você faz impactam diretamente o bem-estar dos habitantes e o desenvolvimento da vila. Se suas escolhas não boas e humildes, isso afetará sua prosperidade na comunidade.",
+        "brief_description": "Simulação de fazenda comunitária onde suas ações devem ajudar a comunidade a prosperar.",
         "genre": "Simulação/Estratégia",
         "release_year": 2024,
         "studio": "Community Games",
